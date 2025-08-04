@@ -1,0 +1,16 @@
+MERN :
+  M: MongoDb
+  E: ExpressJS
+  R: React
+  N: NodeJs
+
+Three Pillars of Developers :
+  HTML
+  CSS
+  JS
+
+Stages of web Devlopment
+  Building/Developers
+  Testing
+  Hosting
+  Maintainance    
