@@ -1,2 +1,2 @@
 # LearningMern
-As a non-tech student learning MERN Full stack
+As a non-tech student learning MERN Full stack development
